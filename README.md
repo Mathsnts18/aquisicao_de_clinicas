@@ -1,6 +1,6 @@
 # Aquisição de clínicas
 
-![cover](img\cover.jpg)
+![cover](<img/cover.jpg>)
 
 ## 📌 Visão Geral
 
@@ -23,7 +23,7 @@ A Real constrói uma plataforma de trabalho (SaaS - Software as a Service) **foc
 
 ## 📊 Análise exploratória de dados
 
-![Distribuição dos motivos de interesse](image.png)
+![Distribuição dos motivos de interesse](<img/image.png>)
 
 [📘 Notebook - Análise exploratória de dados](notebooks\analise_exploratoria.ipynb)
 
@@ -33,7 +33,7 @@ Ao fim da análise os dados tratados foram salvos em arquivos .xlsx para futura 
 
 ## 🤔 Testes de hipótese
 
-![Gráfico da média de atividade das clínicas](img\plot_media_atividades.png)
+![Gráfico da média de atividade das clínicas](<img/plot_media_atividades.png>)
 
 [📘 Notebook - Testes de hipótese](notebooks\testes_hipotese.ipynb)
 
@@ -46,11 +46,9 @@ Os testes de hipótese sanaram duas duvidas:
 Ambas hipóteses foram testadas e suas resoluções implicaram no produto final, o dashboard.
 
 ## 🎯 Dashboard
-![Dashboard](img\dashboard.jpg)
+![Dashboard](<img/dashboard.jpg>)
 
-As principais análises foram sintetizadas no dashboard destinado a equipe de Produto - Aquisição.
-
-Ela conta com: 
+As principais análises foram sintetizadas no dashboard destinado a equipe de Produto - Aquisição e conta com:
 
 - As assinaturas convertidas para um overview dos clientes.
 
